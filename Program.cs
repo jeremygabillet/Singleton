@@ -6,7 +6,8 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Class1 class1 = new Class1();
+            Class2 class2 = new Class2();
         }
     }
 }
